@@ -1,6 +1,9 @@
 // he/him
+
 // I’m a developer & designer.
+
 // Lover of all things Apple and Apple Retail! 
+
 
 // SwiftUI
 
